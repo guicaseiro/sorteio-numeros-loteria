@@ -2,6 +2,8 @@
 Script para realizar o sorteio de números para loteria
 
 Apenas gerando números aleatórios considerando que não pode haver repetição deles
+
+By. GFC
 """
 
 #  Importando a biblioteca
